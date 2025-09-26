@@ -1,6 +1,6 @@
 
 # RELATÓRIO – Opção 1 (Hands‑on)
-> Nome: <Hannah> · Data: 2025-09-26
+> Nome: Hannah · Data: 2025-09-26
 
 ## 1. Sumário Executivo
 **Visão geral:** Ambiente com container atacante (Kali), WAF ModSecurity (OWASP CRS) e aplicação alvo DVWA. Ataques simulados (SQLi e XSS) foram executados contra a DVWA e monitorados via Dozzle. O WAF atuou em **modo blocking**, gerando bloqueios `403 Forbidden` quando o inbound anomaly score foi excedido.
@@ -97,5 +97,3 @@ O ambiente demonstrou que o ModSecurity + OWASP CRS detecta e bloqueia ataques b
 - `RELATORIO-template.md` (modelo utilizado).
 
 ---
-
-*Gerado automaticamente com base nos arquivos fornecidos pelo avaliando.*
