@@ -1,5 +1,5 @@
-# projeto-2-cibersecurity
-# Hardening, Firewall, WAF (ModSecurity) e Resposta a Incidentes
+# Projeto-2 - Cybersecurity
+Hardening, Firewall, WAF (ModSecurity) e Resposta a Incidentes
 
 ##  Visão Geral
 
