@@ -1,7 +1,7 @@
 # projeto-2-cibersecurity
 # Hardening, Firewall, WAF (ModSecurity) e Resposta a Incidentes
 
-## 📌 Visão Geral
+##  Visão Geral
 
 Este projeto consiste em um ambiente prático (hands-on) para configuração de hardening, firewall, implementação de WAF com ModSecurity (OWASP Core Rule Set) e simulação de ataques cibernéticos com o objetivo de coletar logs e executar um fluxo de resposta a incidentes seguindo o modelo **NIST Incident Response (IR)**.
 
@@ -16,7 +16,7 @@ A entrega inclui relatório, prints/logs e diagrama da arquitetura.
 
 ---
 
-## 🎯 Objetivos do Projeto
+##  Objetivos do Projeto
 
 * Aplicar hardening e firewall em ambiente controlado.
 * Configurar o ModSecurity com OWASP Core Rule Set.
@@ -31,7 +31,7 @@ A entrega inclui relatório, prints/logs e diagrama da arquitetura.
 
 ---
 
-## 🔧 Configuração do Ambiente
+##  Configuração do Ambiente
 
 ### Componentes principais
 
@@ -48,7 +48,7 @@ A entrega inclui relatório, prints/logs e diagrama da arquitetura.
 
 ---
 
-## 🛡️ Ataques Simulados
+##  Ataques Simulados
 
 Foram executados dois tipos de ataques:
 
@@ -69,7 +69,7 @@ Foram executados dois tipos de ataques:
 
 ---
 
-## 📝 Conclusão
+##  Conclusão
 
 O ambiente foi configurado com sucesso e o WAF ModSecurity, utilizando o OWASP CRS, demonstrou efetividade ao identificar e bloquear ataques SQLi e XSS. O processo de coleta de logs e análise possibilitou simular um fluxo de resposta a incidentes seguindo o modelo NIST IR.
 
@@ -77,8 +77,4 @@ As evidências demonstram que o sistema reagiu conforme esperado, reforçando a 
 
 ---
 
-## 📎 Anexos
 
-* Logs do ModSecurity
-* Prints da execução dos ataques
-* Diagrama da arquitetura
